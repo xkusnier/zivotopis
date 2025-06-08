@@ -1,1 +1,1 @@
-Vlastní projekt - osobní CV
+CV
